@@ -17,6 +17,9 @@ Para ver uma demonstração do aplicativo em funcionamento, assista ao vídeo ab
 
 [![Demonstração do Aplicativo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](TRACTAIN.mov)
 
+## Relatório de Complexidade
+
+É possível ver a complexidade dos arquivos no relatório `complexity_report.pdf`.
 
 ### Pontos de Melhoria no Projeto
 
