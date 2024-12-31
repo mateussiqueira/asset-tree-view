@@ -1,4 +1,15 @@
-# AssetTree - README
+# Tree View Application
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Siqueira-blue)](https://www.linkedin.com/in/mateussiqueira/)
+
+## Descrição
+
+Este projeto é uma aplicação de visualização de árvore que mostra os ativos das empresas. A árvore é composta por componentes, ativos e locais.
+
+## Funcionalidades
+
+- **Home Page**: Menu para navegação entre diferentes empresas e acesso aos seus ativos.
+- **Asset Page**: Visualização da árvore de ativos com filtros para busca por texto, sensores de energia e status crítico do sensor.
 
  ## Demonstração
 
