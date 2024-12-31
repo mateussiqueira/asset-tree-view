@@ -200,10 +200,6 @@ List<AssetEntity> _filterBySearchQuery(List<AssetEntity> assets) {
 
 Com essas melhorias, a qualidade do código é aumentada, tornando-o mais modular, legível e fácil de manter. A complexidade dos métodos é reduzida ao extrair funções auxiliares, o que facilita a compreensão e a manutenção do código.
 
-### Nota Revisada
-
-Com as melhorias propostas, a nota para a qualidade do código pode ser aumentada para 9/10, considerando que o código agora está mais modular e legível. A nota final do projeto pode ser ajustada para 8.5/10, refletindo as melhorias na qualidade do código.
-
 ### Observação
 
 Este foi o melhor que consegui em menos de 3 dias porque não sabia qual era o prazo. Não priorizei a UI e sim a otimização dos algoritmos para garantir que a aplicação fosse eficiente e funcional. Usei o livro do cormem e usei um argoritmo que fiz para revizar a complexidades dos metodos o resultado do mesmo está em anexo e usei o chatGpt como um dev que avaliaria meus PRs
